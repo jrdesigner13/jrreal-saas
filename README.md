@@ -11,6 +11,20 @@
 #### Stripe Subscription payment
 #### Deployment with Vercel
 
+## Features:
+
+#### 🌐 Nextjs App Router
+#### 🔐 Kinde Authentication
+#### 📧 Passwordless Auth
+#### 🔑 OAuth (Google and GitHub)
+#### 💿 Supabase Database
+#### 💨 Prisma ORM
+#### 🎨 Styling with tailwindcss and shadcn UI
+#### ✅ Change the color scheme to your liking
+#### 💵 Stripe for subscription handling
+#### 🪝 Implementation of Stripe Webhooks
+#### 😶‍🌫️ Deployment to Vercel
+
 [`Preview`](https://jrreal-saas.vercel.app)
 <img width="1416" alt="Screenshot 2024-01-30 at 21 31 49" src="https://github.com/jrdesigner13/jrreal-saas/assets/38070740/3aeff31d-ee1a-4fd5-92b0-6647b860d3b1">
 <img width="1419" alt="Screenshot 2024-01-30 at 21 33 45" src="https://github.com/jrdesigner13/jrreal-saas/assets/38070740/3c00ae9d-8643-46e5-a979-24f82efebf22">
